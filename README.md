@@ -106,7 +106,6 @@ __Check out my GitHub repository:__
   </kbd>
 </p>
 
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
